@@ -3,4 +3,4 @@ Ionic 3 and Socket Io
 
 # step by step
 
-- go to cd solehinsocket
+- cd solehinsocket
